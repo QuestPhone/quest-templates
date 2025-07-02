@@ -1,5 +1,5 @@
 {
-    "touchGrass": {
+    "touch-grass": {
         "name": "Touch Grass",
         "description": "A reminder to take a break and enjoy the outdoors.",
         "requirements": "none",
@@ -15,7 +15,7 @@
         "integration": "HEALTH_CONNECT",
         "category": "Fitness"
     },
-    "cleanbedroom" : {
+    "clean-bedroom" : {
         "name": "Clean Bedroom",
         "description": "A task to keep your living space tidy and organized.",
         "requirements": "none",
@@ -23,7 +23,7 @@
         "integration": "AI_SNAP",
         "category": "Household"
     },
-    "cleansink" : {
+    "clean-sink" : {
         "name": "Clean Sink",
         "description": "A task to maintain cleanliness in your kitchen or bathroom.",
         "requirements": "none",
@@ -31,7 +31,7 @@
         "integration": "AI_SNAP",
         "category": "Household"
     },
-    "drinkWater": {
+    "drink-water": {
         "name": "Drink Water",
         "description": "Stay hydrated by drinking a glass of water.",
         "requirements": "A smart water bottle thats tracks your water intake",
@@ -63,7 +63,7 @@
         "integration": "DEEP_FOCUS",
         "category": "Leisure"
     },
-    "burnCalories": {
+    "burn-calories": {
         "name": "Burn Calories",
         "description": "Engage in an activity that helps you burn calories.",
         "requirements": "A fitness tracking app like Google Fit that supports Health Connect",
