@@ -1,5 +1,6 @@
 {
-    "content": "I, $${userName}, hereby pledge to touch grass on ${daysOfWeek} starting from ${startDate} until ${endDate}.\nTo prove my commitment, I will send a photo each day of myself touching grass on the days I’ve committed.\nThis is my promise to myself — to stay grounded, stay real, and touch some damn grass. 🌱",
+    "content": "I, $${userName}, hereby pledge to touch grass on ${daysOfWeek} starting from today until ${endDate}.\nTo prove my commitment, I will send a photo each day of myself touching grass on the days I’ve committed.\nThis is my promise to myself — to stay grounded, stay real, and touch some damn grass. 🌱",
+    "requirements": "none",
     "variables": [
     {
         "name": "daysOfWeek",
@@ -7,15 +8,14 @@
         "label": "Which Days?"
     },
     {
-        "name": "startDate",
-        "type": "date",
-        "label": "Start Date"
-    },
-    {
         "name": "endDate",
         "type": "date",
         "label": "End Date"
+    },
+    {
+        "name": "startDate",
+        "type": "date",
+        "label": "Start Date"
     }
-    ],
-    "quest_json": "days: ${daysOfWeek}, start_date: ${startDate}, end_date: ${endDate}"
+    ]
 }
