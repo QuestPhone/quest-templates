@@ -1,0 +1,90 @@
+{
+    "touchGrass": {
+        "name": "Touch Grass",
+        "description": "A reminder to take a break and enjoy the outdoors.",
+        "requirements": "none",
+        "color": "#4CAF50",
+        "integration": "AI_SNAP",
+        "category": "Wellness"
+    },
+    "run": {
+        "name": "Run",
+        "description": "A simple running activity to keep fit.",
+        "requirements": "a fitness tracking app like google fit that supports health connect",
+        "color": "#FF5722",
+        "integration": "HEALTH_CONNECT",
+        "category": "Fitness"
+    },
+    "cleanbedroom" : {
+        "name": "Clean Bedroom",
+        "description": "A task to keep your living space tidy and organized.",
+        "requirements": "none",
+        "color": "#2196F3",
+        "integration": "AI_SNAP",
+        "category": "Household"
+    },
+    "cleansink" : {
+        "name": "Clean Sink",
+        "description": "A task to maintain cleanliness in your kitchen or bathroom.",
+        "requirements": "none",
+        "color": "#FFC107",
+        "integration": "AI_SNAP",
+        "category": "Household"
+    },
+    "drinkWater": {
+        "name": "Drink Water",
+        "description": "Stay hydrated by drinking a glass of water.",
+        "requirements": "A smart water bottle thats tracks your water intake",
+        "color": "#03A9F4",
+        "integration": "HEALTH_CONNECT",
+        "category": "Wellness"
+    },
+    "journal":{
+        "name": "Journal",
+        "description": "Write down your thoughts and feelings to reflect on your day.",
+        "requirements": "A physical journalling notebook",
+        "color": "#9C27B0",
+        "integration": "AI_SNAP",
+        "category": "Mental Health"
+    },
+    "meditate": {
+        "name": "Meditate",
+        "description": "Spend a few minutes in meditation to clear your mind and reduce stress.",
+        "requirements": "A quiet space and a comfortable position",
+        "color": "#673AB7",
+        "integration": "DEEP_FOCUS",
+        "category": "Mental Health"
+    },
+    "read": {
+        "name": "Read",
+        "description": "Read a book or an article to expand your knowledge or for leisure.",
+        "requirements": "A book or an article to read",
+        "color": "#FF9800",
+        "integration": "DEEP_FOCUS",
+        "category": "Leisure"
+    },
+    "burnCalories": {
+        "name": "Burn Calories",
+        "description": "Engage in an activity that helps you burn calories.",
+        "requirements": "A fitness tracking app like Google Fit that supports Health Connect",
+        "color": "#F44336",
+        "integration": "HEALTH_CONNECT",
+        "category": "Fitness"
+    },
+    "sleep": {
+        "name": "Sleep",
+        "description": "Get a good night's sleep to recharge your body and mind.",
+        "requirements": "A fitness tracking app like Google Fit that supports Health Connect",
+        "color": "#9E9E9E",
+        "integration": "HEALTH_CONNECT",
+        "category": "Wellness"
+    },
+    "study": {
+        "name": "Study",
+        "description": "Dedicate time to studying or learning something new.",
+        "requirements": "A quiet space and study materials",
+        "color": "#3F51B5",
+        "integration": "DEEP_FOCUS",
+        "category": "Education"
+    }
+}
