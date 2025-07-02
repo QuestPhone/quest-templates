@@ -4,7 +4,7 @@
     {
         "name": "daysOfWeek",
         "type": "daysOfWeek",
-        "label": "Which Days?",
+        "label": "Which Days?"
     },
     {
         "name": "startDate",
@@ -17,5 +17,5 @@
         "label": "End Date"
     }
     ],
-    "quest_json": "days: ${daysOfWeek}, start_date: ${startDate}, end_date: ${endDate}",
+    "quest_json": "days: ${daysOfWeek}, start_date: ${startDate}, end_date: ${endDate}"
 }
