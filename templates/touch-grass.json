@@ -19,7 +19,7 @@
     },
     {
         "name": "time",
-        "type": "time_range",
+        "type": "timeRange",
         "label": "Time Range"
     }
     ]
