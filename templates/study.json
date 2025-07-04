@@ -1,7 +1,7 @@
 {
-  "content": "I, ${userName}, hereby pledge to study with full focus on ${daysOfWeek}, starting from today until ${endDate}, between ${time}.\n\nI will begin with ${initialStudyMinutes} minutes of study each day and increase it by ${incrementBy} minutes daily until I reach my goal of ${finalGoal} total minutes.\n\nDuring these sessions, all apps will be blocked except the ones I’ve marked as allowed: ${unrestrictedApps}.\n\nIf I break this focus or use restricted apps, I accept the consequences set in this quest.\n\nThis is my promise to myself — to stay consistent, grow my discipline, and level up my brain. 📖🚀",
+  "content": "I, ${userName}, hereby pledge to study with full focus on ${daysOfWeek}, starting from today until ${endDate}, between ${time}.\n\nI will begin with ${initialStudyMinutes} minutes of study each day and increase it by ${incrementBy} minutes daily until I reach my goal of ${finalGoal} hours.\n\nDuring these sessions, all apps will be blocked except the ones I’ve marked as allowed: ${unrestrictedApps}.\n\nIf I break this focus or use restricted apps, I accept the consequences set in this quest.\n\nThis is my promise to myself — to stay consistent, grow my discipline, and level up my brain. 📖🚀",
   "requirements": "none",
-  "integration": "AI_SNAP",
+  "integration": "DEEP_FOCUS",
   "variables": [
     {
       "name": "daysOfWeek",
@@ -21,25 +21,25 @@
     {
       "name": "initialStudyMinutes",
       "type": "number",
-      "label": "Initial Study Time",
-      "default": 25
+      "label": "Initial Study Time in Minutes",
+      "default": "25"
     },
     {
       "name": "incrementBy",
       "type": "number",
-      "label": "Daily Increment",
-      "default": 5
+      "label": "Daily Increment in Minutes",
+      "default": "5"
     },
     {
       "name": "finalGoal",
       "type": "number",
       "label": "Final Goal",
-      "default": 180
+      "default": "180"
     },
     {
       "name": "unrestrictedApps",
       "type": "appSelector",
-      "label": "Unrestricted Apps"
+      "label": "Unrestricted Apps in Minutes"
     }
   ]
 }
