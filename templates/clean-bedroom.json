@@ -1,0 +1,27 @@
+{
+    "content": "I, #{userName}, hereby pledge to clean my bedroom on #{daysOfWeek} starting from today until #{endDate} between #{time}.\n\nEach time, I will make sure to tidy up the bed, clean the floor, organize my stuff, and keep my space fresh and peaceful.\n\nTo prove my commitment, I will send a photo of my cleaned room on the days I’ve committed. Also remember my room's wall color #{room-color} so I don't upload pictures of another room. \n\nIf I miss a day, I accept the consequences set in this quest.\n\nThis is my promise to myself — to keep my space clear, my mind focused, and my vibe positive. 🛏️✨",
+    "requirements": "none",
+    "integration": "AI_SNAP",
+    "variables": [
+    {
+        "name": "daysOfWeek",
+        "type": "daysOfWeek",
+        "label": "Which Days?"
+    },
+    {
+        "name": "endDate",
+        "type": "date",
+        "label": "End Date"
+    },
+    {
+        "name": "time",
+        "type": "timeRange",
+        "label": "Time Range"
+    },
+    {
+        "name": "room-color",
+        "type": "text",
+        "label": "Room Color"
+    }
+    ]
+}
