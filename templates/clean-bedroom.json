@@ -21,7 +21,8 @@
     {
         "name": "room-color",
         "type": "text",
-        "label": "Room Color"
+        "label": "Room Color",
+        "default": "Green"
     }
     ]
 }

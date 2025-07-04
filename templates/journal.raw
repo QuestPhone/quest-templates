@@ -1,0 +1,15 @@
+{
+  "id": "#{id}",
+  "title": "Daily Journaling",
+  "reward": 5,
+  "integration_id": "AI_SNAP",
+  "selected_days": #{daysOfWeek},
+  "auto_destruct": "#{endDate}",
+  "time_range": #{time},
+  "created_on": "#{created-on}",
+  "last_completed_on": "0001-01-01",
+  "instructions": "Take a moment to sit down and **write about your day, your thoughts, or your feelings**.\n\n## 🧠 What to do:\n\n* Open your journal (physical or digital)\n* Write at least a few sentences — be honest, be real\n* Title it with your tag (`#{journalTag}`)\n* Submit a picture to complete the quest and earn 5 coins ✨\n\n## 🪄 Bonus Cool Points:\n\n* Wrote more than 100 words? That’s dedication.\n* Reflected on your emotions? Self-aware .\n* Added a doodle or emoji? Artistic AF.\n\n---\n\n**Write it down. Let it out. Grow from it.**",
+  "quest_json": "{\"taskDescription\":\"Write a short journal entry about your day or feelings\",\"features\":[\"The title contains #{journalTag}\"]}",
+  "is_destroyed": false,
+  "last_updated": #{last-updated}
+}
