@@ -1,5 +1,5 @@
 {
-  "content": "I, ${userName}, hereby pledge to study with full focus on ${daysOfWeek}, starting from today until ${endDate}, between ${time}.\n\nI will begin with ${initialStudyMinutes} minutes of study each day and increase it by ${incrementBy} minutes daily until I reach my goal of ${finalGoal} hours.\n\nDuring these sessions, all apps will be blocked except the ones I’ve marked as allowed: ${unrestrictedApps}.\n\nIf I break this focus or use restricted apps, I accept the consequences set in this quest.\n\nThis is my promise to myself — to stay consistent, grow my discipline, and level up my brain. 📖🚀",
+  "content": "I, #{userName}, hereby pledge to study with full focus on #{daysOfWeek}, starting from today until #{endDate}, between #{time}.\n\nI will begin with #{initialStudyMinutes} minutes of study each day and increase it by #{incrementBy} minutes daily until I reach my goal of #{finalGoal} hours.\n\nDuring these sessions, all apps will be blocked except the ones I’ve marked as allowed: #{unrestrictedApps}.\n\nIf I break this focus or use restricted apps, I accept the consequences set in this quest.\n\nThis is my promise to myself — to stay consistent, grow my discipline, and level up my brain. 📖🚀",
   "requirements": "none",
   "integration": "DEEP_FOCUS",
   "variables": [
