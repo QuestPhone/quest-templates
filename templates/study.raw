@@ -1,0 +1,16 @@
+{
+  "id": "#{id}",
+  "title": "Study",
+  "reward": 5,
+  "integration_id": "DEEP_FOCUS",
+  "selected_days": #{daysOfWeek},
+  "auto_destruct": "#{endDate}",
+  "time_range": #{time},
+  "created_on": "#{created_on}",
+  "last_completed_on": "0001-01-01",
+  "is_destroyed": false,
+  "last_updated": #{last-updated}
+  
+  "instructions": "study",
+  "quest_json": "{\"focusTimeConfig\":{\"initialTime\":\"#{initialTime}\",\"finalTime\":\"#{finalTime}\",\"incrementTime\":\"#{incrementTime}\",\"initialUnit\":\"m\",\"finalUnit\":\"h\",\"incrementUnit\":\"m\"},\"unrestrictedApps\":#{unrestrictedApps},\"nextFocusDurationInMillis\":1800000}",
+}

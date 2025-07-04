@@ -27,15 +27,6 @@
         "category": "Household"
     },
     {
-        "id": "clean-sink",
-        "name": "Clean Sink",
-        "description": "A task to maintain cleanliness in your kitchen or bathroom.",
-        "requirements": "none",
-        "color": "#FFC107",
-        "integration": "AI_SNAP",
-        "category": "Household"
-    },
-    {
         "id": "drink-water",
         "name": "Drink Water",
         "description": "Stay hydrated by drinking a glass of water.",
@@ -63,7 +54,7 @@
         "category": "Mental Health"
     },
     {
-        "id": "read",
+        "id": "readSnap",
         "name": "Read",
         "description": "Read a book or an article to expand your knowledge or for leisure.",
         "requirements": "A book or an article to read",
