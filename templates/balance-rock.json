@@ -3,7 +3,7 @@
   "requirements": "none",
   "basicQuest": {
     "title": "Balance a Rock",
-    "description": "Balancing a rock is more than just a challenge — it's a meditation. It requires patience, stillness, and just the right touch. When the world feels shaky, find your still point and stack a little peace.",
+    "instructions": "Balancing a rock is more than just a challenge — it's a meditation. It requires patience, stillness, and just the right touch. When the world feels shaky, find your still point and stack a little peace.",
     "integration_id": "AI_SNAP"
   },
   "questExtra": {

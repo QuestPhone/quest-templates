@@ -1,15 +1,15 @@
 {
-  "content": "I, #{userName}, hereby pledge to hug a tree on #{selected_days} starting from today until #{auto_destruct} between #{time_range}.\nTo prove my commitment, I will send a photo each day of myself hugging a tree on the days I’ve committed.\nThis is my promise to myself — to reconnect with nature, slow down, and feel the living world around me. 🌳🤗",
-  "requirements": "none",
-  "basicQuest": {
-    "title": "Hug a Tree",
-    "description": "Sometimes, you just need to hold something older, stronger, and more grounded than yourself. Hugging a tree is a reminder that you're part of something bigger, rooted, and alive.",
-    "integration_id": "AI_SNAP"
-  },
-  "questExtra": {
-    "AiSnap": {
-      "taskDescription": "a person hugging a tree",
-      "features": []
+    "content": "I, #{userName}, hereby pledge to touch grass on #{selected_days} starting from today until #{auto_destruct} between #{time_range}.\nTo prove my commitment, I will send a photo each day of myself touching grass on the days I’ve committed.\nThis is my promise to myself — to stay grounded, stay real, and touch some damn grass. 🌱",
+    "requirements": "none",
+    "basicQuest": {
+        "title": "Touch Grass",
+        "description": "A reminder to take a break from the digital world and reconnect with nature.",
+        "integration_id":"AI_SNAP"
+    },
+    "questExtra": { 
+        "AiSnap": {
+            "taskDescription":"a hand touching some grass",
+            "features": []
+        }
     }
-  }
 }

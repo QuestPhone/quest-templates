@@ -3,7 +3,7 @@
   "requirements": "none",
   "basicQuest": {
     "title": "Spot a Bird",
-    "description": "Birds are messengers of freedom, motion, and the moment. Taking time to notice one — even for a few seconds — is an invitation to pause and breathe with nature.\n\nLook up, look around, and listen. There's always a bird somewhere if you're still enough to see it.",
+    "instructions": "Birds are messengers of freedom, motion, and the moment. Taking time to notice one — even for a few seconds — is an invitation to pause and breathe with nature.\n\nLook up, look around, and listen. There's always a bird somewhere if you're still enough to see it.",
     "integration_id": "AI_SNAP"
   },
   "questExtra": {

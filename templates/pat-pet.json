@@ -3,7 +3,7 @@
   "requirements": "none",
   "basicQuest": {
     "title": "Pat a Pet",
-    "description": "A simple pat can mean the world to a furry friend. Whether it’s a wagging tail, a purring cat, or even a curious bird — touch is connection.\n\nTake a moment to slow down, offer affection, and feel the heartbeat of another life. They don't ask for much — just love in return.",
+    "instructions": "A simple pat can mean the world to a furry friend. Whether it’s a wagging tail, a purring cat, or even a curious bird — touch is connection.\n\nTake a moment to slow down, offer affection, and feel the heartbeat of another life. They don't ask for much — just love in return.",
     "integration_id": "AI_SNAP"
   },
   "questExtra": {

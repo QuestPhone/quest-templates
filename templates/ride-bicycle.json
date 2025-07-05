@@ -3,7 +3,7 @@
   "requirements": "none",
   "basicQuest": {
     "title": "Ride a Bicycle",
-    "description": "Your bike isn’t just a machine — it’s freedom on two wheels. Riding clears the mind, strengthens the body, and brings out your inner explorer.\n\nHop on. Feel the wind. Chase a sunset. Whether it’s for fitness, fun, or focus — every ride brings you closer to balance.",
+    "instructions": "Your bike isn’t just a machine — it’s freedom on two wheels. Riding clears the mind, strengthens the body, and brings out your inner explorer.\n\nHop on. Feel the wind. Chase a sunset. Whether it’s for fitness, fun, or focus — every ride brings you closer to balance.",
     "integration_id": "AI_SNAP"
   },
   "questExtra": {

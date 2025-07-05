@@ -1,0 +1,15 @@
+{
+  "content": "I, #{userName}, hereby pledge to hug a tree on #{selected_days} starting from today until #{auto_destruct} between #{time_range}.\nTo prove my commitment, I will send a photo each day of myself hugging a tree on the days I’ve committed.\nThis is my promise to myself — to reconnect with nature, slow down, and feel the living world around me. 🌳🤗",
+  "requirements": "none",
+  "basicQuest": {
+    "title": "Hug a Tree",
+    "description": "Sometimes, you just need to hold something older, stronger, and more grounded than yourself. Hugging a tree is a reminder that you're part of something bigger, rooted, and alive.",
+    "integration_id": "AI_SNAP"
+  },
+  "questExtra": {
+    "AiSnap": {
+      "taskDescription": "a person hugging a tree",
+      "features": []
+    }
+  }
+}

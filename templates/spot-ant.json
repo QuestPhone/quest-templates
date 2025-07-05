@@ -3,7 +3,7 @@
   "requirements": "none",
   "basicQuest": {
     "title": "Spot an Ant",
-    "description": "In a world rushing by, take a moment to notice something small. Ants are nature’s tireless builders — a reminder that even the tiniest effort matters. Get low, stay still, and observe a little life in action.",
+    "instructions": "In a world rushing by, take a moment to notice something small. Ants are nature’s tireless builders — a reminder that even the tiniest effort matters. Get low, stay still, and observe a little life in action.",
     "integration_id": "AI_SNAP"
   },
   "questExtra": {

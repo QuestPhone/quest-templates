@@ -3,7 +3,7 @@
   "requirements": "none",
   "basicQuest": {
     "title": "Spot a Cloud",
-    "description": "Clouds are drifting poems in the sky — always moving, always changing. Taking a moment to spot one is a quiet act of wonder.\n\nLook up. Find a shape. Watch it shift. Let it remind you that thoughts pass, moods pass — and you're allowed to just *observe*.",
+    "instructions": "Clouds are drifting poems in the sky — always moving, always changing. Taking a moment to spot one is a quiet act of wonder.\n\nLook up. Find a shape. Watch it shift. Let it remind you that thoughts pass, moods pass — and you're allowed to just *observe*.",
     "integration_id": "AI_SNAP"
   },
   "questExtra": {
