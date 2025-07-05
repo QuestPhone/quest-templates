@@ -1,7 +1,6 @@
 {
     "content": "I, #{userName}, hereby pledge to touch grass on #{selected_days} starting from today until #{auto_destruct} between #{time_range}.\nTo prove my commitment, I will send a photo each day of myself touching grass on the days I’ve committed.\nThis is my promise to myself — to stay grounded, stay real, and touch some damn grass. 🌱",
     "requirements": "none",
-    "integration": "AI_SNAP",
     "basicQuest": {
         "title": "Touch Grass",
         "description": "A reminder to take a break from the digital world and reconnect with nature.",
