@@ -1,28 +1,15 @@
 {
-  "content": "I, #{userName}, hereby pledge to journal on #{daysOfWeek} starting from today until #{endDate}, between #{time}.\n\nEach time, I will write honestly about my thoughts, feelings, or what happened during the day.\n\nTo prove my commitment, I will submit my journal entries on the days I’ve committed. The title of my journal will always include the keyword '#{journalTag}' to ensure it's uniquely mine.\n\nIf I miss a day, I accept the consequences set in this quest.\n\nThis is my promise to myself — to reflect, to grow, and to understand my journey better. ✍️🧠",
+  "content": "I, #{userName}, hereby pledge to journal on #{selected_days} starting from today until #{auto_destruct}, between #{time_range}.\n\nEach time, I will write honestly about my thoughts, feelings, or what happened during the day.\n\nTo prove my commitment, I will submit my journal entries on the days I’ve committed.\n\nIf I miss a day, I accept the consequences set in this quest.\n\nThis is my promise to myself — to reflect, to grow, and to understand my journey better. ✍️🧠",
   "requirements": "none",
-  "integration": "AI_SNAP",
-  "variables": [
-    {
-      "name": "daysOfWeek",
-      "type": "daysOfWeek",
-      "label": "Which Days?"
-    },
-    {
-      "name": "endDate",
-      "type": "date",
-      "label": "End Date"
-    },
-    {
-      "name": "time",
-      "type": "timeRange",
-      "label": "Time Range"
-    },
-    {
-      "name": "journalTag",
-      "type": "text",
-      "label": "Journal Tag Keyword",
-      "default": "MyJournal"
+  "basicQuest": {
+    "title": "Daily Journal",
+    "description": "## 🧠 Journal Entry Ideas\n\n* What’s been on my mind a lot lately?\n* What am I avoiding and why?\n* What do I *actually* want right now?\n* How do I feel today — and what might be causing it?\n* What’s something I’m proud of, even if it’s small?\n* Where did I waste my energy today?\n* What habits are helping me? Which ones are hurting?\n* What’s one thing I *know* I should do but keep putting off?\n* If today repeats forever, what kind of life will I end up with?\n* What would my ideal day look like — realistically?\n* What thoughts have been holding me back?\n* What do I want my future self to thank me for?\n* What did I learn today — about myself or the world?\n* Who or what made me feel something strong today?\n* What am I grateful for — no matter how small?\n* What would I say to myself if I were my best friend?\n* What’s something I need to let go of?\n* What’s something I need to chase harder?\n* What am I pretending not to know?\n* What does success mean to *me* — not what others say?\n\n",
+    "integration_id": "AI_JOURNAL"
+  },
+  "questExtra": {
+    "AiSnap": {
+          "taskDescription":"a journal entry",
+          "features": []
+      }
     }
-  ]
 }

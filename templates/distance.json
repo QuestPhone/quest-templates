@@ -1,0 +1,14 @@
+{
+  "content": "I, #{userName}, hereby pledge to walk at least #{initialHealthGoal} meters on #{selected_days} starting from today until #{auto_destruct}, between #{time_range}.\n\nEach time I successfully complete my distance goal, I will increase my next goal by #{incrementHealthGoalBy} meters, continuing this pattern until I reach my final goal of #{finalHealthGoal} meters per day.\n\nIf I miss a day, the distance does not increase, and I will retry the same goal next time.\n\nThis is my promise to myself — to stay active, build momentum, and walk my way toward better health. 🚶‍♀️🔥",
+  "requirements": "none",
+  "basicQuest": {
+    "title": "Daily Distance Walk",
+    "description": "Your body is your **vehicle**, and walking is how you **tune it up** — meter by meter, day by day. When you walk, you're not just moving your legs, you're moving your life forward. Here's how you do it:\n\n### 🚶‍♂️ What to Do:\n\n* **Start with your goal.** Today's target is #{initialHealthGoal} meters — and that number will rise with every win.\n* **Break it into chunks.** Morning walk, post-lunch stroll, evening loop. No pressure to do it all at once.\n* **Stay consistent.** Even if it rains or you're tired, show up. Every meter counts.\n* **Stretch before and after.** Loosen up your joints, protect your engine.\n* **Breathe deep as you walk.** In through the nose, out through the mouth. Let your thoughts settle.\n* **Use walking to reflect.** Think. Plan. Or just wander. This is your moving meditation.\n\n### ✅ End Goal:\n\n> A stronger body, a clearer mind, and a habit that pushes you forward.\n> With every meter, you’re building discipline, endurance, and momentum.\n> You’re not just walking — *you’re leveling up*.",
+    "integration_id": "AI_SNAP"
+  },
+  "questExtra": {
+    "HealthConnect": {
+      "type": "DISTANCE"
+    }
+  }
+}

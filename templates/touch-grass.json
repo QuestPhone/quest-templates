@@ -4,7 +4,6 @@
     "basicQuest": {
         "title": "Touch Grass",
         "description": "A reminder to take a break from the digital world and reconnect with nature.",
-        "reward": "5",
         "integration_id":"AI_SNAP"
     },
     "questExtra": { 

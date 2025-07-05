@@ -9,10 +9,10 @@
         "category": "Wellness"
     },
     {
-        "id": "run",
-        "name": "Run",
-        "description": "A simple running activity to keep fit.",
-        "requirements": "a fitness tracking app like google fit that supports health connect",
+        "id": "steps",
+        "name": "Steps",
+        "description": "Complete a daily step goal to stay active.",
+        "requirements": "a fitness tracking app",
         "color": "#FF5722",
         "integration": "HEALTH_CONNECT",
         "category": "Fitness"
