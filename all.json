@@ -6,7 +6,16 @@
         "requirements": "none",
         "color": "#4CAF50",
         "integration": "AI_SNAP",
-        "category": "Wellness"
+        "category": "NATURE"
+    },
+    {
+        "id": "touch-nature",
+        "name": "Touch Nature",
+        "description": "A reminder to touch snow,wood,tree anything.",
+        "requirements": "none",
+        "color": "#4CAF50",
+        "integration": "AI_SNAP",
+        "category": "NATURE"
     },
     {
         "id": "steps",
@@ -14,6 +23,15 @@
         "description": "Complete a daily step goal to stay active.",
         "requirements": "a fitness tracking app",
         "color": "#FF5722",
+        "integration": "HEALTH_CONNECT",
+        "category": "Fitness"
+    },
+    {
+        "id": "distance",
+        "name": "Distance",
+        "description": "Walk a certain distance each day to maintain physical health.",
+        "requirements": "A fitness tracking app",
+        "color": "#FF9800",
         "integration": "HEALTH_CONNECT",
         "category": "Fitness"
     },
@@ -27,15 +45,6 @@
         "category": "Household"
     },
     {
-        "id": "drink-water",
-        "name": "Drink Water",
-        "description": "Stay hydrated by drinking a glass of water.",
-        "requirements": "A smart water bottle thats tracks your water intake",
-        "color": "#03A9F4",
-        "integration": "HEALTH_CONNECT",
-        "category": "Wellness"
-    },
-    {
         "id": "journal",
         "name": "Journal",
         "description": "Write down your thoughts and feelings to reflect on your day.",
@@ -44,49 +53,96 @@
         "integration": "AI_SNAP",
         "category": "Mental Health"
     },
+
     {
-        "id": "meditate",
-        "name": "Meditate",
-        "description": "Spend a few minutes in meditation to clear your mind and reduce stress.",
+        "id": "level-study",
+        "name": "Levelled Study",
+        "description": "Begin with short study sessions. Each day, your focus time grows to boost discipline and knowledge.",
+        "requirements": "A quiet space and study materials",
+        "color": "#3F51B5",
+        "integration": "DEEP_FOCUS",
+        "category": "Education"
+    },
+    {
+        "id": "level-meditation",
+        "name": "Levelled Meditatation",
+        "description": "Start with a few minutes of calm. Each day, your meditation time gently increases to help you build focus and inner peace.",
         "requirements": "A quiet space and a comfortable position",
         "color": "#673AB7",
         "integration": "DEEP_FOCUS",
         "category": "Mental Health"
     },
     {
-        "id": "readSnap",
-        "name": "Read",
-        "description": "Read a book or an article to expand your knowledge or for leisure.",
-        "requirements": "A book or an article to read",
-        "color": "#FF9800",
-        "integration": "DEEP_FOCUS",
-        "category": "Leisure"
-    },
-    {
         "id": "burn-calories",
         "name": "Burn Calories",
         "description": "Engage in an activity that helps you burn calories.",
-        "requirements": "A fitness tracking app like Google Fit that supports Health Connect",
+        "requirements": "A fitness tracking app",
         "color": "#F44336",
         "integration": "HEALTH_CONNECT",
         "category": "Fitness"
     },
-    {
-        "id": "sleep",
-        "name": "Sleep",
-        "description": "Get a good night's sleep to recharge your body and mind.",
-        "requirements": "A fitness tracking app like Google Fit that supports Health Connect",
-        "color": "#9E9E9E",
-        "integration": "HEALTH_CONNECT",
-        "category": "Wellness"
+        {
+        "id": "ride-bicycle",
+        "name": "Ride Bicycle",
+        "description": "Ride a bicycle to stay active and enjoy the outdoors.",
+        "requirements": "A fitness tracking app",
+        "color": "#F41336",
+        "integration": "AI_SNAP",
+        "category": "Fitness"
     },
     {
-        "id": "study",
-        "name": "Study",
-        "description": "Dedicate time to studying or learning something new.",
-        "requirements": "A quiet space and study materials",
-        "color": "#3F51B5",
-        "integration": "DEEP_FOCUS",
-        "category": "Education"
+        "id": "hug-tree",
+        "name": "Hug a tree",
+        "description": "A reminder to reconnect with nature.",
+        "requirements": "none",
+        "color": "#4CAG50",
+        "integration": "AI_SNAP",
+        "category": "NATURE"
+    },
+    {
+        "id": "spot-ant",
+        "name": "Spot an Ant",
+        "description": "A reminder to observe the small wonders of nature.",
+        "requirements": "none",
+        "color": "#4CDF50",
+        "integration": "AI_SNAP",
+        "category": "NATURE"
+    },
+    {
+        "id": "spot-bird",
+        "name": "Spot a Bird",
+        "description": "A reminder to appreciate the beauty of birds in nature.",
+        "requirements": "none",
+        "color": "#4CFF50",
+        "integration": "AI_SNAP",
+        "category": "NATURE"
+    },
+    {
+        "id": "spot-cloud",
+        "name": "Spot a Cloud",
+        "description": "A reminder to look up and enjoy the sky.",
+        "requirements": "none",
+        "color": "#4CFF50",
+        "integration": "AI_SNAP",
+        "category": "NATURE"
+    },
+    {
+        "id": "balance-rock",
+        "name": "Balance a rock on another rock",
+        "description": "A reminder to practice patience and focus by balancing rocks.",
+        "requirements": "none",
+        "color": "#4CGF50",
+        "integration": "AI_SNAP",
+        "category": "NATURE"
+    },
+    {
+        "id": "pat-pet",
+        "name": "Pat a pet",
+        "description": "A reminder to show affection to your pet.",
+        "requirements": "none",
+        "color": "#4CGF50",
+        "integration": "AI_SNAP",
+        "category": "NATURE"
     }
+
 ]

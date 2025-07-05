@@ -1,0 +1,15 @@
+{
+  "content": "I, #{userName}, hereby pledge to find and observe at least one ant on #{selected_days} starting from today until #{auto_destruct} between #{time_range}.\nTo prove my commitment, I will send a photo each day of the ant I’ve spotted on the days I’ve committed.\nThis is my promise to myself — to slow down, notice the tiny workers of the world, and stay curious. 🐜🔍",
+  "requirements": "none",
+  "basicQuest": {
+    "title": "Spot an Ant",
+    "description": "In a world rushing by, take a moment to notice something small. Ants are nature’s tireless builders — a reminder that even the tiniest effort matters. Get low, stay still, and observe a little life in action.",
+    "integration_id": "AI_SNAP"
+  },
+  "questExtra": {
+    "AiSnap": {
+      "taskDescription": "an ant crawling on the ground",
+      "features": []
+    }
+  }
+}

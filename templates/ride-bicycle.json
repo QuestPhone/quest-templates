@@ -1,0 +1,15 @@
+{
+  "content": "I, #{userName}, hereby pledge to ride a bicycle on #{selected_days} starting from today until #{auto_destruct} between #{time_range}.\nTo prove my commitment, I will send a selfie of myself on a bicycle each day I’ve committed.\nThis is my promise to myself — to keep moving, breathe deeper, and enjoy the ride. 🚴‍♂️📸",
+  "requirements": "none",
+  "basicQuest": {
+    "title": "Ride a Bicycle",
+    "description": "Your bike isn’t just a machine — it’s freedom on two wheels. Riding clears the mind, strengthens the body, and brings out your inner explorer.\n\nHop on. Feel the wind. Chase a sunset. Whether it’s for fitness, fun, or focus — every ride brings you closer to balance.",
+    "integration_id": "AI_SNAP"
+  },
+  "questExtra": {
+    "AiSnap": {
+      "taskDescription": "a selfie of a person on a bicycle",
+      "features": []
+    }
+  }
+}

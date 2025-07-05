@@ -1,0 +1,15 @@
+{
+  "content": "I, #{userName}, hereby pledge to gently pat a pet on #{selected_days} starting from today until #{auto_destruct} between #{time_range}.\nTo prove my commitment, I will send a photo each day of myself patting a pet on the days I’ve committed.\nThis is my promise to myself — to give kindness, share warmth, and connect with the living beings that love without words. 🐾❤️",
+  "requirements": "none",
+  "basicQuest": {
+    "title": "Pat a Pet",
+    "description": "A simple pat can mean the world to a furry friend. Whether it’s a wagging tail, a purring cat, or even a curious bird — touch is connection.\n\nTake a moment to slow down, offer affection, and feel the heartbeat of another life. They don't ask for much — just love in return.",
+    "integration_id": "AI_SNAP"
+  },
+  "questExtra": {
+    "AiSnap": {
+      "taskDescription": "a person patting a pet like a cat or dog",
+      "features": []
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "content": "I, #{userName}, hereby pledge to spot and observe a cloud on #{selected_days} starting from today until #{auto_destruct} between #{time_range}.\nTo prove my commitment, I will send a photo each day of a cloud I’ve seen on the days I’ve committed.\nThis is my promise to myself — to look up, slow down, and remember that everything passes. ☁️🌥️",
+  "requirements": "none",
+  "basicQuest": {
+    "title": "Spot a Cloud",
+    "description": "Clouds are drifting poems in the sky — always moving, always changing. Taking a moment to spot one is a quiet act of wonder.\n\nLook up. Find a shape. Watch it shift. Let it remind you that thoughts pass, moods pass — and you're allowed to just *observe*.",
+    "integration_id": "AI_SNAP"
+  },
+  "questExtra": {
+    "AiSnap": {
+      "taskDescription": "a cloud in the sky, any shape",
+      "features": []
+    }
+  }
+}

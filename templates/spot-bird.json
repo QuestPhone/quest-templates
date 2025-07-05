@@ -1,0 +1,15 @@
+{
+  "content": "I, #{userName}, hereby pledge to spot a bird on #{selected_days} starting from today until #{auto_destruct} between #{time_range}.\nTo prove my commitment, I will send a photo each day of a bird I’ve seen on the days I’ve committed.\nThis is my promise to myself — to lift my gaze, stay present, and connect with the wild skies. 🐦🌤️",
+  "requirements": "none",
+  "basicQuest": {
+    "title": "Spot a Bird",
+    "description": "Birds are messengers of freedom, motion, and the moment. Taking time to notice one — even for a few seconds — is an invitation to pause and breathe with nature.\n\nLook up, look around, and listen. There's always a bird somewhere if you're still enough to see it.",
+    "integration_id": "AI_SNAP"
+  },
+  "questExtra": {
+    "AiSnap": {
+      "taskDescription": "a bird perched or flying outdoors",
+      "features": []
+    }
+  }
+}

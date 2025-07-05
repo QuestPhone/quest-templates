@@ -1,0 +1,15 @@
+{
+  "content": "I, #{userName}, hereby pledge to balance a rock on #{selected_days} starting from today until #{auto_destruct} between #{time_range}.\nTo prove my commitment, I will send a photo each day of the rock I’ve balanced on the days I’ve committed.\nThis is my promise to myself — to stay centered, steady my hands, and find calm in stillness. 🪨🧘",
+  "requirements": "none",
+  "basicQuest": {
+    "title": "Balance a Rock",
+    "description": "Balancing a rock is more than just a challenge — it's a meditation. It requires patience, stillness, and just the right touch. When the world feels shaky, find your still point and stack a little peace.",
+    "integration_id": "AI_SNAP"
+  },
+  "questExtra": {
+    "AiSnap": {
+      "taskDescription": "a balanced rock or a rock stack",
+      "features": []
+    }
+  }
+}

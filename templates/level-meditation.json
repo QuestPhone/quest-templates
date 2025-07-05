@@ -1,0 +1,9 @@
+{
+  "content": "I, #{userName}, hereby pledge to meditate with full presence on #{selected_days}, starting from today until #{auto_destruct}, between #{time_range}.\n\nI will begin with #{initialFocusGoal} minutes of meditation each day and increase it by #{incrementFocusGoalBy} minutes after each successful session, until I reach my goal of #{finalFocusGoal} minutes.\n\nDuring this time, all distractions will be silenced, and I will allow myself to be fully present.\n\nIf I skip or break the flow, I accept the consequences set in this quest.\n\nThis is my promise to myself — to slow down, breathe deeper, and strengthen my inner world. 🧘‍♂️🌿",
+  "requirements": "none",
+  "basicQuest": {
+    "title": "Mindful Meditation",
+    "instructions": "### 🧘 Meditation\n\n> **You’re not just sitting still. You’re taking back control of your mind.**\n> Every breath you take in awareness is a **vote for clarity, peace, and strength**.\n> Every minute you meditate, you **reclaim space from the noise** that pulls you around.\n\n---\n\nYou’re not escaping — you’re **returning to yourself**.\nAnd the world moves differently when your mind is steady.\n\nSo:\n\n* 🌬️ Breathe deep.\n* 🪑 Sit still.\n* 🧠 Let your thoughts come and go — *but you stay.*\n\nYou already have **everything you’re looking for**.\nYou just have to **be still long enough to find it**.\n\n---\n\n### 🌟 Begin.\n\n**No pressure. No judgment. Just *presence*.**\nAnd each day you show up:\n\n## **You rise. 🌄**",
+    "integration_id": "DEEP_FOCUS"
+  }
+}
