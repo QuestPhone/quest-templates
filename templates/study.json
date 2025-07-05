@@ -1,45 +1,5 @@
 {
-  "content": "I, #{userName}, hereby pledge to study with full focus on #{daysOfWeek}, starting from today until #{endDate}, between #{time}.\n\nI will begin with #{initialStudyMinutes} minutes of study each day and increase it by #{incrementBy} minutes daily until I reach my goal of #{finalGoal} hours.\n\nDuring these sessions, all apps will be blocked except the ones I’ve marked as allowed: #{unrestrictedApps}.\n\nIf I break this focus or use restricted apps, I accept the consequences set in this quest.\n\nThis is my promise to myself — to stay consistent, grow my discipline, and level up my brain. 📖🚀",
+  "content": "I, #{userName}, hereby pledge to study with full focus on #{selected_days}, starting from today until #{auto_destruct}, between #{time_range}.\n\nI will begin with #{initialGoal} minutes of study each day and increase it by #{incrementGoalBy} minutes daily until I reach my goal of #{finalGoal} hours.\n\nDuring these sessions, all apps will be blocked except the ones I’ve marked as allowed: #{unrestrictedApps}.\n\nIf I break this focus or use restricted apps, I accept the consequences set in this quest.\n\nThis is my promise to myself — to stay consistent, grow my discipline, and level up my brain. 📖🚀",
   "requirements": "none",
-  "integration": "DEEP_FOCUS",
-  "variables": [
-    {
-      "name": "daysOfWeek",
-      "type": "daysOfWeek",
-      "label": "Which Days?"
-    },
-    {
-      "name": "endDate",
-      "type": "date",
-      "label": "End Date"
-    },
-    {
-      "name": "time",
-      "type": "timeRange",
-      "label": "Time Range"
-    },
-    {
-      "name": "initialStudyMinutes",
-      "type": "number",
-      "label": "Initial Study Time in Minutes",
-      "default": "25"
-    },
-    {
-      "name": "incrementBy",
-      "type": "number",
-      "label": "Daily Increment in Minutes",
-      "default": "5"
-    },
-    {
-      "name": "finalGoal",
-      "type": "number",
-      "label": "Final Goal",
-      "default": "180"
-    },
-    {
-      "name": "unrestrictedApps",
-      "type": "appSelector",
-      "label": "Unrestricted Apps in Minutes"
-    }
-  ]
+  "integration": "DEEP_FOCUS"
 }
