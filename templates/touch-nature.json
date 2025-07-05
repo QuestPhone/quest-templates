@@ -1,0 +1,15 @@
+{
+  "content": "I, #{userName}, hereby pledge to touch something in nature on #{selected_days} starting from today until #{auto_destruct} between #{time_range}.\n\nEach time, I will connect with the natural world by touching a leaf, a tree, a flower, a rock — anything that grew or formed outside the human-made world.\n\nTo prove my commitment, I will send a photo of myself touching it on the days I’ve committed. Also remember the object I touched was #{feature1} so I don’t fake it. 🌿🤲\n\nIf I miss a day, I accept the consequences set in this quest.\n\nThis is my promise to myself — to stay rooted, stay present, and keep my connection with the Earth alive.",
+  "requirements": "none",
+  "basicQuest": {
+    "title": "Touch Nature",
+    "description": "Nature is the original reset button. Touching something real — bark, soil, stone, petal — reminds you of what’s solid, alive, and not on a screen.\n\n### 🌱 What to Do:\n\n* **Step outside** or go where nature lives.\n* **Find something real.** A leaf. A rock. A tree. Even a patch of moss.\n* **Touch it with care.** Stay present for just a few seconds. Let it ground you.\n* **Notice what you feel.** Rough bark, soft petals, cool stone — nature speaks through sensation.\n\n### ✅ End Goal:\n\n> A quiet moment with the world beyond walls.\n> Just you, your senses, and something ancient.",
+    "integration_id": "AI_SNAP"
+  },
+  "questExtra": {
+    "AiSnap": {
+      "taskDescription": "a person touching something in nature",
+      "features": ["a #{feature1} natural object"]
+    }
+  }
+}
