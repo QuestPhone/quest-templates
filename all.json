@@ -151,7 +151,8 @@
         "requirements": "Duolingo App",
         "color": "#4CGF50",
         "integration": "EXTERNAL_INTEGRATION",
-        "category": "Education"
+        "category": "Education",
+        "setupLink": "https://nethical6.github.io/qp_duolingo_integration/"
     }
 
 ]
