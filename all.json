@@ -6,7 +6,7 @@
         "requirements": "none",
         "color": "#4CAF50",
         "integration": "AI_SNAP",
-        "category": "NATURE"
+        "category": "Nature"
     },
     {
         "id": "touch-nature",
@@ -15,7 +15,7 @@
         "requirements": "none",
         "color": "#4CAF50",
         "integration": "AI_SNAP",
-        "category": "NATURE"
+        "category": "Nature"
     },
     {
         "id": "steps",
@@ -93,29 +93,29 @@
     {
         "id": "hug-tree",
         "name": "Hug a tree",
-        "description": "A reminder to reconnect with nature.",
+        "description": "A reminder to reconnect with Nature.",
         "requirements": "none",
         "color": "#4CAG50",
         "integration": "AI_SNAP",
-        "category": "NATURE"
+        "category": "Nature"
     },
     {
         "id": "spot-ant",
         "name": "Spot an Ant",
-        "description": "A reminder to observe the small wonders of nature.",
+        "description": "A reminder to observe the small wonders of Nature.",
         "requirements": "none",
         "color": "#4CDF50",
         "integration": "AI_SNAP",
-        "category": "NATURE"
+        "category": "Nature"
     },
     {
         "id": "spot-bird",
         "name": "Spot a Bird",
-        "description": "A reminder to appreciate the beauty of birds in nature.",
+        "description": "A reminder to appreciate the beauty of birds in Nature.",
         "requirements": "none",
         "color": "#4CFF50",
         "integration": "AI_SNAP",
-        "category": "NATURE"
+        "category": "Nature"
     },
     {
         "id": "spot-cloud",
@@ -124,7 +124,7 @@
         "requirements": "none",
         "color": "#4CFF50",
         "integration": "AI_SNAP",
-        "category": "NATURE"
+        "category": "Nature"
     },
     {
         "id": "balance-rock",
@@ -133,7 +133,7 @@
         "requirements": "none",
         "color": "#4CGF50",
         "integration": "AI_SNAP",
-        "category": "NATURE"
+        "category": "Nature"
     },
     {
         "id": "pat-pet",
@@ -142,7 +142,16 @@
         "requirements": "none",
         "color": "#4CGF50",
         "integration": "AI_SNAP",
-        "category": "NATURE"
+        "category": "Nature"
+    },
+    {
+        "id": "duolingo-lesson",
+        "name": "Duolingo Lesson",
+        "description": "Maintain your duolingo streak to earn coins.",
+        "requirements": "Duolingo App",
+        "color": "#4CGF50",
+        "integration": "EXTERNAL_INTEGRATION",
+        "category": "Education"
     }
 
 ]
