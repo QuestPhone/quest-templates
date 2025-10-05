@@ -153,6 +153,16 @@
         "integration": "EXTERNAL_INTEGRATION",
         "category": "Education",
         "setupLink": "https://nethical6.github.io/qp_duolingo_integration/"
+    },
+    {
+        "id": "pomodoro-quest",
+        "name": "Simple Pomodoro",
+        "description": "Scientifically proven method to enhance focus and productivity by breaking work into intervals.",
+        "requirements": "none",
+        "color": "#ee5a65",
+        "integration": "EXTERNAL_INTEGRATION",
+        "category": "Education",
+        "setupLink": "https://nethical6.github.io/qp_pomodoro/qp_setup.html"
     }
 
 ]

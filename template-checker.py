@@ -18,7 +18,8 @@ def check_templates():
         file_path = os.path.join(template_folder, file_name)
 
         if not os.path.isfile(file_path):
-            missing_ids.append(entry['id'])
+            if(entry['integration'] != "EXTERNAL_INTEGRATION"):
+                missing_ids.append(entry['id'])
 
     # Report
     if missing_ids:
