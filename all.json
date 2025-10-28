@@ -17,24 +17,7 @@
         "integration": "AI_SNAP",
         "category": "Nature"
     },
-    {
-        "id": "steps",
-        "name": "Steps",
-        "description": "Complete a daily step goal to stay active.",
-        "requirements": "a fitness tracking app",
-        "color": "#FF5722",
-        "integration": "HEALTH_CONNECT",
-        "category": "Fitness"
-    },
-    {
-        "id": "distance",
-        "name": "Distance",
-        "description": "Walk a certain distance each day to maintain physical health.",
-        "requirements": "A fitness tracking app",
-        "color": "#FF9800",
-        "integration": "HEALTH_CONNECT",
-        "category": "Fitness"
-    },
+    
     {
         "id": "clean-bedroom",
         "name": "Clean Bedroom",
@@ -71,15 +54,6 @@
         "color": "#673AB7",
         "integration": "DEEP_FOCUS",
         "category": "Mental Health"
-    },
-    {
-        "id": "burn-calories",
-        "name": "Burn Calories",
-        "description": "Engage in an activity that helps you burn calories.",
-        "requirements": "A fitness tracking app",
-        "color": "#F44336",
-        "integration": "HEALTH_CONNECT",
-        "category": "Fitness"
     },
         {
         "id": "ride-bicycle",
