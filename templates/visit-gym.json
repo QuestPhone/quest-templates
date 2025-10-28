@@ -1,0 +1,15 @@
+{
+  "content": "I, #{userName}, hereby pledge to visit the gym on #{selected_days} starting from today until #{auto_destruct}, between #{time_range}.\n\nI will complete a workout session and submit a selfie at the gym as proof of completion.\n\nThis is my promise to myself — to build strength, stay consistent, and keep showing up. 🏋️📸",
+  "requirements": "Gym access or personal workout equipment",
+  "basicQuest": {
+    "title": "Visit Gym",
+    "instructions": "Show up and move. A short, consistent workout is better than occasional extremes.\n\nChoose exercises that match your level. Focus on form, breathe, and leave a little stronger than when you arrived.",
+    "integration_id": "AI_SNAP"
+  },
+  "questExtra": {
+    "AiSnap": {
+      "taskDescription": "a selfie of a person at the gym or using gym equipment",
+      "features": []
+    }
+  }
+}

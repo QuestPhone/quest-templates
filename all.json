@@ -8,6 +8,16 @@
         "integration": "AI_SNAP",
         "category": "Nature"
     },
+      {
+        "id": "pomodoro-quest",
+        "name": "Simple Pomodoro",
+        "description": "Scientifically proven method to enhance focus and productivity by breaking work into intervals.",
+        "requirements": "none",
+        "color": "#ee5a65",
+        "integration": "EXTERNAL_INTEGRATION",
+        "category": "Education",
+        "setupLink": "https://nethical6.github.io/qp_pomodoro/qp_setup.html"
+    },
     {
         "id": "touch-nature",
         "name": "Touch Nature",
@@ -17,7 +27,25 @@
         "integration": "AI_SNAP",
         "category": "Nature"
     },
-    
+    {
+        "id": "duolingo-lesson",
+        "name": "Duolingo Lesson",
+        "description": "Maintain your duolingo streak to earn coins.",
+        "requirements": "Duolingo App",
+        "color": "#4CGF50",
+        "integration": "EXTERNAL_INTEGRATION",
+        "category": "Education",
+        "setupLink": "https://nethical6.github.io/qp_duolingo_integration/"
+    },
+    {
+        "id": "visit-gym",
+        "name": "Visit Gym",
+        "description": "Go to the gym and complete a workout — submit a selfie as proof.",
+        "requirements": "Gym access or personal workout equipment",
+        "color": "#FF5722",
+        "integration": "AI_SNAP",
+        "category": "Fitness"
+    },
     {
         "id": "clean-bedroom",
         "name": "Clean Bedroom",
@@ -117,26 +145,5 @@
         "color": "#4CGF50",
         "integration": "AI_SNAP",
         "category": "Nature"
-    },
-    {
-        "id": "duolingo-lesson",
-        "name": "Duolingo Lesson",
-        "description": "Maintain your duolingo streak to earn coins.",
-        "requirements": "Duolingo App",
-        "color": "#4CGF50",
-        "integration": "EXTERNAL_INTEGRATION",
-        "category": "Education",
-        "setupLink": "https://nethical6.github.io/qp_duolingo_integration/"
-    },
-    {
-        "id": "pomodoro-quest",
-        "name": "Simple Pomodoro",
-        "description": "Scientifically proven method to enhance focus and productivity by breaking work into intervals.",
-        "requirements": "none",
-        "color": "#ee5a65",
-        "integration": "EXTERNAL_INTEGRATION",
-        "category": "Education",
-        "setupLink": "https://nethical6.github.io/qp_pomodoro/qp_setup.html"
     }
-
 ]
