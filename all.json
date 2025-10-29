@@ -37,6 +37,16 @@
         "category": "Education",
         "setupLink": "https://nethical6.github.io/qp_duolingo_integration/"
     },
+        {
+        "id": "github-commits",
+        "name": "Github Commits",
+        "description": "Perform x number of github commits daily to earn coins",
+        "requirements": "Github Account",
+        "color": "#4CGG70",
+        "integration": "EXTERNAL_INTEGRATION",
+        "category": "Education",
+        "setupLink": "https://nethical6.github.io/qp_gh_integration/"
+    },
     {
         "id": "visit-gym",
         "name": "Visit Gym",
